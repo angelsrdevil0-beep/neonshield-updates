@@ -1,0 +1,8 @@
+{
+ "version_code": 12,
+ "version_name": "1.0.9",
+ "sha256": "38e615712789655423b2848b60ada8663a96591c29972048c46f11138722aef9",
+ "size": 41158874,
+ "notes": "Live updates: from now on NeonShield updates itself with small downloads. Connections stay up on slow networks. New: Change location automatically.",
+ "patches": {}
+}
